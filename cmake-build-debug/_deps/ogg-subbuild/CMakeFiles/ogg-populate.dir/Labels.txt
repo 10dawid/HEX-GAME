@@ -1,0 +1,14 @@
+# Target labels
+ ogg-populate
+# Source files and their labels
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update.rule

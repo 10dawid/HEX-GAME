@@ -1,0 +1,14 @@
+# Target labels
+ freetype-populate
+# Source files and their labels
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test.rule
+/Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update.rule

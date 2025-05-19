@@ -1,0 +1,33 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/dawidleczycki/CLionProjects/HEX-GAME -B /Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug
+CMake Deprecation Warning at cmake-build-debug/_deps/freetype-src/CMakeLists.txt:113 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Could NOT find PkgConfig (missing: PKG_CONFIG_EXECUTABLE) 
+CMake Deprecation Warning at cmake-build-debug/_deps/ogg-src/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Configuring libogg 1.3.5
+CMake Deprecation Warning at cmake-build-debug/_deps/vorbis-src/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Configuring vorbis 1.3.7
+-- {fmt} version: 11.1.4
+-- Build type: Debug
+-- Configuring done (1.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/dawidleczycki/CLionProjects/HEX-GAME/cmake-build-debug
